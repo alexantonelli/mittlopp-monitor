@@ -1,1 +1,0 @@
-Add secret NTFY_TOPIC with your topic.
